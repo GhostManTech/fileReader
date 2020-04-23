@@ -1,0 +1,72 @@
+Yamoussoukro -> Côte d'ivoire
+Nouakchott -> Mauritanie
+Maroc -> Rabat
+Tunisie -> Tunis
+Libye -> Tipoli
+Algérie -> Alger
+Égypte -> Le caire
+Gynée -> Conakry
+Gynée Bissau -> Bissau
+Sénégal -> Dakar
+Sahara occidental -> Laâyoune
+Togo -> Lomé
+Ghana -> Accra
+Mali -> Bamako
+Sierra Leone -> Freetown
+Libéria -> Monrovia
+Bénin -> Porto-novo
+Nigéria -> Abuja
+Niger -> Niamey
+Tchad -> N'Djamena
+Afrique du sud -> Le cap | Bloemfontein | Pretoria | ((Lesotho -> Maseru) | (Eswatini -> Mbabane))
+Mozambique -> Maputo
+Botswana -> Gaborone
+Namibie -> Windhoek
+Zimbabwe -> Harare
+Malawie -> Lilongwe
+Tanzanie -> Dodoma
+Burundi -> Bujumbura
+Rwanda -> Kigali
+Ouganda -> Kampala
+Kenya -> Nairobi
+RDC -> Kinshasa
+Somalie -> Mogadiscio
+Angola -> Luanda
+Zambie -> Lusaka
+RC -> Pointe-noire
+Gabon -> Libreville
+Guinée équatoriale -> Malabo
+Cameroun -> Youndé
+Éthiopuie -> Addis Abeda
+Djibouti -> Djibouti
+Érythée -> Asmara
+Soudan -> Khartoum
+Soudan du sud -> Djouba
+Burkina faso -> Ouagadougou
+Yemen -> Sanaa
+Oman -> Mascate
+EAU -> Abou Dabi
+Qatar -> Doha
+Bahreïn -> Manama
+Arabie saoudite -> Riyad
+Koweït -> Koweït
+Irak -> Bagdad
+Israël -> Tel-Aviv
+Cisjordanie -> Jérusalem
+Jordanie -> Ammen
+Liban -> Beyrouth
+Syrie -> Damas
+Turquie -> Ankara
+Chypre -> Nicosie
+Iran -> Téhéran
+Géorgie -> Tbilissi
+Arménie -> Erevan
+Azerbaïdjan -> Bakou
+
+
+
+
+
+
+
+
